@@ -1,4 +1,13 @@
-## Hi there 👋
+# 🤖 LoteIA
+Fábrica de conteúdo em lote usando Inteligência Artificial.
+
+## 🚀 Funcionalidades
+- Geração de até 15 textos simultâneos.
+- Sistema de assinatura com trava no dia 07.
+- Integração com Google Gemini API.
+
+## 👤 Criador
+Desenvolvido por [@benicioterci](https://www.instagram.com/benicioterci)## Hi there 👋
 
 <!--
 **loteAI/loteAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
